@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "course_id": 101,
@@ -35,4 +36,43 @@
         "credits": 3,
         "instructor": "Dr. Iyer"
     }
+=======
+[
+    {
+        "course_id": 101,
+        "course_name": "AI Fundamentals",
+        "credits": 2,
+        "instructor": "Dr. Sharma"
+    },
+    {
+        "course_id": 102,
+        "course_name": "Data Science",
+        "credits": 4,
+        "instructor": "Dr. Sharma"
+    },
+    {
+        "course_id": 103,
+        "course_name": "Machine Learning",
+        "credits": 5,
+        "instructor": "Dr. Mehta"
+    },
+    {
+        "course_id": 104,
+        "course_name": "Machine Learning OP",
+        "credits": 5,
+        "instructor": "Dr. Mehta"
+    },
+    {
+        "course_id": 105,
+        "course_name": "Deep Learning",
+        "credits": 4,
+        "instructor": "Dr. Rao"
+    },
+    {
+        "course_id": 106,
+        "course_name": "NLP",
+        "credits": 3,
+        "instructor": "Dr. Iyer"
+    }
+>>>>>>> c972a6e69302295f762fc6acf4e55a3e7052a22a
 ]
